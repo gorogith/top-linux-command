@@ -1,7 +1,5 @@
 # TOP MARKOTOP LINUX COMMAND
 
-# Top 100 Linux commands
-Comprehensive list of the top 100 Linux commands with detailed descriptions and usage examples is quite extensive. Below is a subset of this list, showcasing some of the most useful commands for both developers and regular users. Each command includes a description and examples of its usage.
 
 ### 1. **ssh**
 SSH (Secure Shell) is used to securely connect to a remote machine.
